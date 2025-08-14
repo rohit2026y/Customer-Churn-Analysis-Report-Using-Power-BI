@@ -22,6 +22,6 @@ In this Section,  I analyzed Not Churned customers' data and Create a Machine Le
   
 ## Screenshots
 
-![App Screenshot](https://github.com/abhi1202803/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/P1.png)
-![App Screenshot](https://github.com/abhi1202803/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/p2.png)
-![App Screenshot](https://github.com/abhi1202803/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/p3.png)
+![App Screenshot](https://github.com/rohit2026y/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/P1.png)
+![App Screenshot](https://github.com/rohit2026y/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/p2.png)
+![App Screenshot](https://github.com/rohit2026y/Customer-Churn-Analysis-Report-Using-Power-BI/blob/main/p3.png)
